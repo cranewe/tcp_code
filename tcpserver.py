@@ -2,7 +2,7 @@ import socket
 import threading
 import struct
 
-SERVER_IP = '0.0.0.0'
+SERVER_IP = '192.168.78.134'
 SERVER_PORT = 8080
 
 def reverse_string(s):
